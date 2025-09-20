@@ -27,7 +27,7 @@ The project uses the **BBC News Train.csv** dataset, which contains news article
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/newslyzer.git
+   git clone https://github.com/smv-manovihar/Newslyzer.git
    cd newslyzer
    ```
 
